@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @freekcoder22
-- 👀 I’m interested in python development
-- 🌱 I’m currently learning python liabraries
-- 💞️ I’m looking to collaborate on python develpment related
-- 📫 How to reach me by my whats app 7668091355
+- 👀 My name is Lakshya saxena 
+- 🌱 I’m Front End developer.
+- 💞️ I’m looking to collaborate or work on a web development pofile role.
+- 📫 contact no.7668091355
 
 - 
 
